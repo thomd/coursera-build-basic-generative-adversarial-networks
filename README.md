@@ -2,6 +2,8 @@
 
 Notes from Coursera Course [Build Basic Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/build-basic-generative-adversarial-networks-gans)
 
+* [Probability Distributions](https://nbviewer.jupyter.org/github/thomd/coursera-build-basic-generative-adversarial-networks/blob/main/probability-distributions.ipynb)
+
 ## Week 1: Intro to GANs
 
 * [Generative Models](https://nbviewer.jupyter.org/github/thomd/coursera-build-basic-generative-adversarial-networks/blob/main/generative-models.ipynb)
