@@ -8,7 +8,7 @@ Notes from Coursera Course [Build Basic Generative Adversarial Networks (GANs)](
 
 * [Generative Models](https://nbviewer.jupyter.org/github/thomd/coursera-build-basic-generative-adversarial-networks/blob/main/generative-models.ipynb)
 
-* [MNIST GAN in PyTorch](https://nbviewer.jupyter.org/github/thomd/coursera-build-basic-generative-adversarial-networks/blob/main/mnist-gan-pytorch.ipynb) &rarr; [Open in Colab](https://colab.research.google.com/github/thomd/coursera-build-basic-generative-adversarial-networks/blob/main/mnist-gan-pytorch.ipynb)
+* [MNIST GAN in PyTorch](https://nbviewer.jupyter.org/github/thomd/coursera-build-basic-generative-adversarial-networks/blob/main/mnist-gan-pytorch.ipynb) &rarr; [Open in Google Colab](https://colab.research.google.com/github/thomd/coursera-build-basic-generative-adversarial-networks/blob/main/mnist-gan-pytorch.ipynb)
 
 ## Week 2: Deep Convolutional GANs
 
