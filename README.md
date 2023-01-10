@@ -23,3 +23,4 @@ Notes from Coursera Course [Build Basic Generative Adversarial Networks (GANs)](
 
 * [DCGANs](https://nbviewer.jupyter.org/github/thomd/coursera-build-basic-generative-adversarial-networks/blob/main/deep-convolutional-gans.ipynb)
 
+## Week 3: Wasserstein GANs with Gradient Penalty
