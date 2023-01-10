@@ -4,6 +4,15 @@ Notes from Coursera Course [Build Basic Generative Adversarial Networks (GANs)](
 
 * [Probability Distributions](https://nbviewer.jupyter.org/github/thomd/coursera-build-basic-generative-adversarial-networks/blob/main/probability-distributions.ipynb)
 
+## Setup
+
+    python -m venv .venv
+    source .venv/bin/activate
+    pip install jupyterlab ipywidgets
+    pip install torch torchvision
+    pip install matplotlib
+    pip install tqdm
+
 ## Week 1: Intro to GANs
 
 * [Generative Models](https://nbviewer.jupyter.org/github/thomd/coursera-build-basic-generative-adversarial-networks/blob/main/generative-models.ipynb)
@@ -12,5 +21,5 @@ Notes from Coursera Course [Build Basic Generative Adversarial Networks (GANs)](
 
 ## Week 2: Deep Convolutional GANs
 
-[DCGANs](https://nbviewer.jupyter.org/github/thomd/coursera-build-basic-generative-adversarial-networks/blob/main/deep-convolutional-gans.ipynb)
+* [DCGANs](https://nbviewer.jupyter.org/github/thomd/coursera-build-basic-generative-adversarial-networks/blob/main/deep-convolutional-gans.ipynb)
 
